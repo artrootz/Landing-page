@@ -1,0 +1,67 @@
+body {
+	background-color: rgb(253, 253, 253);
+	color: rgb(10,10,10);
+	font-family:"Raleway", sans-serif;
+	text-align:center;
+}
+
+h1{
+	color: green;
+	font-size: 50px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	font-size: 25px;
+	color: pink;
+}
+
+#banner{
+	background-image: url("https://cdn.shopify.com/s/files/1/1619/4221/products/81rfqIJEeVL._SL1400_1024x1024.jpg?v=1537958603");
+	padding: 150px 5px;
+	background-size: cover;
+	text-shadow: 1px 1px 5px red;
+}
+
+#banner h1{
+	color: black;
+	font-size: 60px;
+
+}
+
+#banner p{
+	color: black;
+	opacity: 1.8;
+	font-size: 30px;
+	font-weight: darker;
+
+}
+
+#footer{
+	padding: 30px;
+	background: rgb(30, 30, 30);
+	color: red;
+}
+
+.card{
+	padding: 50px;
+	font-weight: lighter;
+
+}
+
+#footer a{
+	color: lightgrey;
+	font-size: 15px;
+}
+
+#footer a:hover {
+	color: white;
+}
